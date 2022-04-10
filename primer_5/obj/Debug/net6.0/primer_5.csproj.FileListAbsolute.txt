@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\seminar_1\primer_5\bin\Debug\net6.0\primer_5.exe
+C:\Users\Admin\Desktop\seminar_1\primer_5\bin\Debug\net6.0\primer_5.deps.json
+C:\Users\Admin\Desktop\seminar_1\primer_5\bin\Debug\net6.0\primer_5.runtimeconfig.json
+C:\Users\Admin\Desktop\seminar_1\primer_5\bin\Debug\net6.0\primer_5.dll
+C:\Users\Admin\Desktop\seminar_1\primer_5\bin\Debug\net6.0\primer_5.pdb
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.dll
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\refint\primer_5.dll
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.pdb
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\primer_5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\seminar_1\primer_5\obj\Debug\net6.0\ref\primer_5.dll
